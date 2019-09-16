@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "name": "Explore salem",
+        "isCompleted": false
+    },
+    {
+        "id": 102,
+        "name": "Master Node.js",
+        "isCompleted": false
+    },
+    {
+        "id": 104,
+        "name": "Explore Malleshwaram",
+        "isCompleted": false
+    },
+    {
+        "id": 105,
+        "name": "Explore Kgiri",
+        "isCompleted": false
+    },
+    {
+        "id": 106,
+        "name": "Explore Hosur",
+        "isCompleted": false
+    },
+    {
+        "id": 107,
+        "name": "Explore Trichy",
+        "isCompleted": false
+    }
+]
